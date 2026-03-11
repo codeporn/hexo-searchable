@@ -1,0 +1,24 @@
+{
+  "name": "hexo-searchable",
+  "version": "0.1.0",
+  "description": "Generate structured JSON search documents from Hexo posts and pages for any search backend.",
+  "main": "index.js",
+  "keywords": [
+    "hexo",
+    "hexo-plugin",
+    "search",
+    "json",
+    "index",
+    "azure",
+    "algolia",
+    "meilisearch"
+  ],
+  "peerDependencies": {
+    "hexo": ">=6.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://example.com/hexo-searchable.git"
+  }
+}

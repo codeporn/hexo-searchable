@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.iml
+db.json
+
+*.log
+
+/node_modules/
+/.deploy*/
+/public/
+/.idea/
+
+
+/tmp/
+/build/
