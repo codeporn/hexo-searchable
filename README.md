@@ -1,4 +1,5 @@
 # hexo-searchable
+[![npm version](https://badge.fury.io/js/hexo-searchable.svg)](https://badge.fury.io/js/hexo-searchable)
 
 Generate structured JSON search documents from Hexo posts and pages for any search backend.
 
@@ -12,6 +13,12 @@ Generate structured JSON search documents from Hexo posts and pages for any sear
 - Combined filter groups with `any`, `all`, and `none`
 - Plugin API for collectors and transformers
 - Lifecycle hook names for other plugins via Hexo filters
+
+## Install via npm
+
+``` bash
+$ npm install hexo-searchable
+```
 
 ## Install locally for testing
 
